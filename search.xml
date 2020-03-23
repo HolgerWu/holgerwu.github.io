@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2020/03/23/hello-world/"/>
-      <url>/2020/03/23/hello-world/</url>
+      <title>Finally I&#39;m here.</title>
+      <link href="/2020/03/23/finally-i-m-here/"/>
+      <url>/2020/03/23/finally-i-m-here/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>很早以前就想过要搭建一个个人的博客。在去年的暑假曾经短暂的尝试过。后来那个服务器被我用来搭环境了。（<del>实际上也就是用来做MC和饥荒的服务器</del>）而且我的域名又只有这一个，便不了了之。最后因为一门课程，而最终决定搭建这么一个博客。我现在暂时的计划是写一些和OpenGL有关的学习笔记，以及一些Arcmap的项目操作心得。<br>###自我介绍<br>中南大学本科大三在读，专业是地理信息科学。未来应该会选择读一个计算机专业的硕士。方向可能是图形学或者网络安全。不读本专业的原因是：  </p><ul><li>首先，不喜欢一些工科专业课。地信专业偶尔会有一些测量学的实习，出外业说实话对我来说有点吃不消。在笔者的概念里，拿着一根尺子站在大太阳下一动不动半小时属实有点蠢。（搞地信的人应该能知道）</li><li>其次，也是最重要的一点。笔者认为地信专业的组件化太严重了。整个地信行业的生态链是被ESRI等公司牵着头走的，在这个基础上，我跟随导师参与的几个项目无非就是让我把Arcmap和ESRI用的滚瓜烂熟。有的人可能会说：把环境放大了看，你的所谓在计算机领域有更大的发展前景，不也是一种鼠目寸光吗？<br>不错，C#二次开发为地信产业的专题化提供了无限的可能。我觉得这么说也无可厚非，那就牵扯到第三个理由了。</li><li>我更喜欢图形学。<br>###未来规划<br>未来一段时间可能精力会主要放在研究生的备考上。但是介于现在正在学习的网络地理信息系统和计算机图形学的课程，我也可能会把一整个项目流程尽量记录下来。一个月内尽量基于一个油管的<a href="https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDPl" target="_blank" rel="noopener">OpenGL教程</a>做成一个基于LWJGL的3D游戏。</li></ul>]]></content>
       
       
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 成长记录 </tag>
+            
+        </tags>
       
     </entry>
     
